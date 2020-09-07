@@ -1,0 +1,5 @@
+@import "src/styleExtends/extends";
+
+.App {
+  @extend %coverBlock;
+}

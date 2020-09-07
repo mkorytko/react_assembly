@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'SSansPro';
+    src: local('SSansPro Regular'),
+    url('SSansPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SSansPro';
+    src: local('SSansPro Bold'),
+    url('SSansPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
