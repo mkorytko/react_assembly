@@ -24,7 +24,7 @@ const base = {
   },
   output: {
     path: DIST,
-    filename: DEV_MODE ? "js/[name].[contenthash].js" : "js/[name].js",
+    filename: DEV_MODE ? "js/[name].js" : "js/[name].[contenthash:8].js",
     chunkFilename: "js/[name].js",
     publicPath: "",
   },
